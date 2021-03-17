@@ -1,0 +1,37 @@
+/**
+* custom CSS for your admin-specific functionality should be
+* included in this file.
+*/
+.out-of-stock{
+  display: none;
+}
+.offer_stock_box {
+  display: inline-table;
+  width: 97%;
+  height: auto;
+  min-height: 166px;
+  margin: 20px auto;
+  text-align: center;
+  padding: 5px;
+  border: 1px solid #aaa;
+  line-height: 60px;
+  font-size: 15px;
+  font-weight: 400;
+}
+.woocommerce a.offer_stock_btn {
+    text-decoration: none;
+    display: block;
+    background-color: #3ab912;
+    color: #fff;
+    font-weight: 600;
+    font-size: 17px;
+    border-radius: 5px;
+    width: 90%;
+    margin: 5px auto;
+    transition-duration: 0.3s;
+    box-shadow: 0 0 4px rgba(0,0,0,0.3);
+}
+.woocommerce a.offer_stock_btn:hover{
+  box-shadow: 0 0 9px rgba(0,0,0,0.5);
+  background-color: #4ed026;
+}
