@@ -3,8 +3,8 @@ Contributors: (@hanyseyedy)
 Donate link: https://pooyeshtech.ir/desired-amount
 Tags: stock, offer, hanyseyedy, woocommerce, out stock, 
 Requires at least: 3.0.1
-Tested up to: 5.7
-Stable tag: 1.5
+Tested up to: 5.8
+Stable tag: 1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,6 +36,9 @@ e.g.
 2. Display plugin in Single product page - Persian wordpress
 
 == Changelog ==
+= 1.6 =
+* Compatible with wordpress 5.8
+
 = 1.5 =
 * Compatible with wordpress 5.7
 
